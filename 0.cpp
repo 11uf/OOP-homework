@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <string>
 #include <vector>
@@ -78,4 +77,4 @@ int main() {
     cout << "Total credit hours for " << math.getName() << ": " << math.getCreditHours() << endl;
 
     return 0;
-}*/
+}
